@@ -4,10 +4,10 @@ This is for CSS Assignments from Elzero CSS Course Include weeks form 4 to 8 dat
 ---
 
 ### CSS Weeks : 
-- [] Week four
-- [] Week five
-- [] Week six
-- [] Week seven
-- [] Week eight
+- [ ] Week four
+- [ ] Week five
+- [ ] Week six
+- [ ] Week seven
+- [ ] Week eight
 
 ---
